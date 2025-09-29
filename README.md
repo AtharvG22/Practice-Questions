@@ -3,6 +3,8 @@
 
 
 [Open the Colab Notebook](https://colab.research.google.com/drive/16AJRkqCnEdjG7IykTtKtcqJdzWXbzGFA?usp=sharing)
+Question 1: (https://colab.research.google.com/drive/1DjWwvk8saFN9k8XTAa3ExtbMxuq9RX9R?usp=sharing)
+Question 2: 
 
 ---
 
