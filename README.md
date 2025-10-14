@@ -7,6 +7,11 @@
 * Question 2: https://colab.research.google.com/drive/1Va5JC1VQ1RDhhbf_DxZ0wJFVxJlhsLaC?usp=sharing
 * Question 3: https://colab.research.google.com/drive/1EAOwe2JZ9WTFXMKA8FEI4FQ_Dc5_qryl?usp=sharing
 * Question 4: https://colab.research.google.com/drive/13jkp8Kr8U6Bk1QYW8h4GhM1_NU31gr2k?usp=sharing
+* Question 5: https://colab.research.google.com/drive/1BveiHh-exa1SiL-ob1hTlgHXlSzFxfeA?usp=sharing
+* Question 6: https://colab.research.google.com/drive/1Bsn4Z_ky6S8JyQ3-BylwDFfJ8Y46Ug0R?usp=sharing
+* Question 7: https://colab.research.google.com/drive/1yZVCdEMbQQSFkxgsAgeqWSCw9kcYA9ZN
+* Question 8: https://colab.research.google.com/drive/1UP_KisEJ7cORz2CcJB0JB9WQbyGmx1iQ?usp=sharing
+* Question 9: https://colab.research.google.com/drive/1Byy3DxXLVUJqHVhfhldHR0wi2P_mVP57?usp=sharing
 
 ---
 
